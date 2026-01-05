@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Good Bye Litespeed</title>
+    <title>Fatcat Cyber Panel Litespeed</title>
     <link href="https://fonts.googleapis.com/css?family=Arial+Black&display=swap" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <style>
@@ -132,8 +132,8 @@
     }
 
     echo '<div class="text-center mb-8">
-            <h1 class="text-4xl font-bold">Good Bye Litespeed [./Heartzz]</h1>
-            <p class="text-lg italic">v.1.3</p>
+            <h1 class="text-4xl font-bold">Fatcat Cyber Panel Litespeed</h1>
+            <p class="text-lg italic">v.9.3</p>
         </div>';
     echo "<p>Zona waktu server: " . $timezone . "</p>";
     echo "<p>Waktu server saat ini: " . date('Y-m-d H:i:s') . "</p>";
